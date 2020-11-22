@@ -25,3 +25,17 @@ With this objective in mind, Mr. Nigel managed to satisfy the first condition se
 **H.** Tune the Z-score analysis code, such that, it detects an anomaly when someone opens the door of the fridge.
 
 As you may have guessed, this objective helped Mr. Nigel set up a system which knew that the fridge door was open, without any extra hardware. Remember that in your case, you might have to keep the door open for about 10 seconds to see the results.
+
+## Images
+
+### Project Images
+
+![CP](images/A.png)
+![CP](images/D1.png)
+
+### Output Images
+
+![PR](images/E.png)
+![PR](images/C.png)
+![Mail](images/F.png)
+![Output](images/H.png)
